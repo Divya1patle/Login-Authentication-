@@ -15,7 +15,7 @@ var phone = document.getElementById("phone");
 var password = document.getElementById("password");
 var cpassword = document.getElementById("cpassword");
 
-const sendData = (usernameValue, successRate, count) => {
+const sendData = (usernameValue,emailValue, phoneValue,passwordValue, cpasswordValue, successRate, count) => {
   if (successRate === count) {
     alert("Registration Successful");
     swal("Welcome " + usernameValue, "Registration Successful", "success");
