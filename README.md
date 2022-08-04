@@ -1,6 +1,6 @@
 # Login-Authentication-  
 This is client side Registration Form fully Responsive & developed by using HTML CSS & Javascript.<br><br>
-Code URL: https://github.com/Divya1patle/Login-Authentication-.git <br><br>
+Code URL: https://github.com/Divya1patle/Login-Authentication-.git<br><br>
 Live URL: https://divya1patle.github.io/Login-Authentication-/ <br><br>
 
 # Registration page
