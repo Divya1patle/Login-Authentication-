@@ -20,7 +20,7 @@ const sendData = (usernameValue, successRate, count) => {
     alert("Registration Successful");
     swal("Welcome " + usernameValue, "Registration Successful", "success");
     location.href = `demo.html?username=${(usernameValue, emailValue, phoneValue, passwordValue, cpasswordValue)}`;
-    // location.href = "http://127.0.0.1:5500/demo.html";
+ 
   }
 };
 
